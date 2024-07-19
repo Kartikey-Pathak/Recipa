@@ -1,0 +1,153 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.head{
+    background-image: url(/Orange\ Food\ Indian\ Recipe\ Vlog\ YouTube\ Thumbnail.png);
+    background-size: cover; /* Adjusted to contain */
+    height: 60vmin;
+    width: 100%;
+    border: 0.9vmin solid black;
+    align-items: center;
+    justify-content: center;
+    display: flex;             
+}
+.nav{
+    background-color: #FFB200;
+    height: 6vmin;
+    border: 0.8vmin solid #B60071;
+    border-radius: 2vmin;
+    align-items: center;
+    display: flex;
+    justify-content: space-evenly;
+}
+.nav-select{
+    background-color: #E4003A;
+    height: 5vmin;
+    width: 15vmin;
+    border: 0.4vmin solid #EB5B00;
+    border-radius: 5vmin;
+    align-items: center;
+    display: flex;
+    justify-content:center ;
+    color: white;
+    font-size: 3.5vmin;
+    font-weight: bolder;
+}
+.nav-select-food{
+    background-color: #E4003A;
+    height: 5vmin;
+    width: 15vmin;
+    border: 0.4vmin solid #EB5B00;
+    border-radius: 5vmin;
+    color: white;
+    font-size: 3.5vmin;
+    font-weight: bolder;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.nav-select-veg{
+    background-color: #E4003A;
+    height: 5vmin;
+    width: 15vmin;
+    border: 0.4vmin solid #EB5B00;
+    border-radius: 5vmin;
+    align-items: center;
+    display: flex;
+    color: white;
+    font-size: 3.5vmin;
+    font-weight: bolder;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.nav-select-salad{
+    background-color: #E4003A;
+    height: 5vmin;
+    width: 15vmin;
+    border: 0.4vmin solid #EB5B00;
+    border-radius: 5vmin;
+    align-items: center;
+    display: flex;
+    color: white;
+    font-size: 3.5vmin;
+    font-weight: bolder;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.hr{
+    height: 8vmin;
+    background-color: #201E43;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    font-weight: bolder;
+    font-size: 5.5vmin;
+    color: #BF9000;
+}
+.menu-list{
+    height:100vmin ;
+    background-color: #E9FF97;
+}
+.salad{
+    height: 60vmin;
+    width: 50vmin;
+    background-color: #FF4C4C;
+    border: 0.8vmin solid black;
+    border-radius: 3.5vmin;
+    margin-left: 5vmin;
+    text-align: center;
+    font-size:5vmin;
+    font-weight: bolder;
+}
+.salad-recp{
+    font-size: 2.5vmin;
+    font-weight: bold;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.see{
+    height: 7vmin;
+    width: 15vmin;
+    background-color: #FFB22C;
+    font-size: 3vmin;
+    font-weight: bolder;
+    margin-left: 30vmin;
+    border: 0.9vmin solid black;
+    border-radius: 4vmin;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-top: 1vmin;
+}
+.see:hover{
+    transition: 0.5s;
+    background-color: black;
+    border: 0.9vmin solid #FFDE4D;
+    color: white;
+}
+/* Color palate for header and navbar */
+
+/* Dark Blue
+#050A30
+Navy Blue */
+/* #000C66 */
+/* Blue */
+/* #0000FF */
+/* Baby Blue */
+/* #7EC8E3 */
+
+/* Color palate for main content */
+
+/* Olive Green
+#3D550C
+Lime Green
+#81B622
+Yellow Green
+#ECF87F */
+/* Green */
+/* #59981A */
